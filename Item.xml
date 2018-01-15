@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+
+    <STOCK_LIST stock_id='1' item_name='LEDTv' stock_price='40' units_for_discount='3' discount_price='70' />
+    <STOCK_LIST stock_id='2' item_name='Mp3Player' stock_price='10' units_for_discount='2' discount_price='15' />
+    <STOCK_LIST stock_id='3' item_name='DvdPlayer' stock_price='30' units_for_discount='4' discount_price='60' />
+    <STOCK_LIST stock_id='4' item_name='MobilePhone' stock_price='25' units_for_discount='2' discount_price='40' />
+
+
+</dataset>

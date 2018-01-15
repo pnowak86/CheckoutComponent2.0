@@ -1,0 +1,4 @@
+LEDTv;40;3;for 70
+Mp3Player;10;2;for 15
+DvdPlayer;30;4;for 60
+MobilePhone;25;2;for 40
